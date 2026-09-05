@@ -1,0 +1,16 @@
+node_modules/
+.next/
+.env
+.env.local
+prisma/dev.db
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
+
+# Next.js build output
+.next/
+
+# macOS
+.DS_Store
